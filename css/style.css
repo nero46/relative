@@ -1,0 +1,36 @@
+#body {
+    
+    position: relative;
+    
+}
+#eyes {
+    top: -335px;
+    right: 365px;
+    position: relative;
+}
+
+#hat {
+    right: 740px;
+    top: -450px;
+    position: relative;
+}
+#mouth {
+    right: 1090px;
+    bottom: 100px;
+    position: relative;
+}
+#mustache {
+    right: 1400px;
+    bottom: 150px;
+    position: relative;
+}
+#nose {
+    left: 140px;
+    bottom: 475px;
+    position: relative;
+}
+#shoes {
+    top: -145px;
+    right: 225px;
+    position: relative;
+}
